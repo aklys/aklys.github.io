@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>StormBoy Blog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-05-14T14:00:00+10:00</updated><entry><title>Every Journey Starts Somewhere</title><link href="/every-journey-starts-somewhere.html" rel="alternate"></link><published>2020-05-14T14:00:00+10:00</published><updated>2020-05-14T14:00:00+10:00</updated><author><name>Dan</name></author><id>tag:None,2020-05-14:/every-journey-starts-somewhere.html</id><summary type="html">&lt;h1&gt;So Let's Start Here&lt;/h1&gt;
+&lt;p&gt;So I seem to have gotten the Pelican Blog functioning as directed by Bob from PyBites. It may be a little more convoluted than other blog systems I've utilised previously but it is definitely a way to start using a pythonistic system and get a feel …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;So Let's Start Here&lt;/h1&gt;
+&lt;p&gt;So I seem to have gotten the Pelican Blog functioning as directed by Bob from PyBites. It may be a little more convoluted than other blog systems I've utilised previously but it is definitely a way to start using a pythonistic system and get a feel for how something can be done differently.&lt;/p&gt;
+&lt;p&gt;Hopefully this blog will provide some insight into my communication capability to get any further improvements suggested.&lt;/p&gt;
+&lt;p&gt;I also built a development environment to continue my Python Developer Mindset coaching to help standardise and create less focus on setting something up. It contains the following configuration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Debian 10 prebuilt virtual server&lt;/li&gt;
+&lt;li&gt;Visual Studio Code&lt;/li&gt;
+&lt;li&gt;Python 3.7.3&lt;/li&gt;
+&lt;li&gt;venv&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;li&gt;ssh keys for git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I chose to use venv over pyenv. I've utilised both and thought I'd try venv to keep the python code for each project isolated from each other.&lt;/p&gt;
+&lt;p&gt;I also think a good addition that could be useful to the initial instructions in setting a project like this up, would be to point people to use requirement.txt files when making projects initially. I've found them very useful for keeping packaging information readily available for when I clone a repository to a new system.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
